@@ -8,4 +8,4 @@
 
 ### Contacts
 ![Email](https://img.shields.io/badge/Email-zenyen14@gmail.com-090909?style=for-the-badge&logo=email)
-
+![Phone](https://img.shields.io/badge/Phone-380970125456-090909?style=for-the-badge&logo=phone)
