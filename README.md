@@ -4,5 +4,5 @@
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![Sql](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql?logoColor=00648B)
+![Sql](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
 
