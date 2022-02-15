@@ -11,3 +11,5 @@
 ![Phone](https://img.shields.io/badge/Phone-380970125456-090909?style=for-the-badge&logo=call)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-@WhatsApp-090909?style=for-the-badge&logo=WhatsApp)
 ![Telegram](https://img.shields.io/badge/Telegram-@telegram-090909?style=for-the-badge&logo=Telegram)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yevhe14&count_private=true)
